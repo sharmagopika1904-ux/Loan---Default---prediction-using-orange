@@ -44,4 +44,4 @@ Loan default prediction is widely used in credit risk management and lending dec
 
 ![Google Sheet](./Orangegooglesheet.jpeg)
 
-![Dashboard](./organe1.jpeg)
+
