@@ -50,4 +50,4 @@ Loan default prediction is widely used in credit risk management and lending dec
 
 Loan Approval Prediction using Orange Data Mining for credit risk assessment and loan approval decision-making.
 
-GitHub: https://github.com/Mehak695
+GitHub: https://github.com/gopika
